@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
     <meta charset="UTF-8">
-    <meta name="author" content="潘瑞柯">
+    <meta name="author" content="PanRuiKe">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>我的第一个网站</title>
     <style>
         body {
-            font-family: 'SimSun', 'STSong', 'song', 'hei', '黑体', 'sans-serif';
+            font-family: 'SimSun','sans-serif';
             background-color: #ffffff;
         }
         h1 {
@@ -17,7 +17,7 @@
         p {
             text-align: center;
             font-size: 1.5em;
-            color: #006aff;
+            color: #b600fe;
         }
         img {
             display: block;
@@ -30,6 +30,6 @@
 <body>
     <h1>欢迎来到我的第一个网站！</h1>
     <p>这是一个简单的网页，用于展示如何创建一个基本的HTML页面。</p>
-    <img src="https://picture.cmymoon.com//head/001.gif" alt="嘻嘻嘻">
+    <img src="https://picture.cmymoon.com//head/001.gif" alt="嘻嘻嘻" title="这是一个图片">
 </body>
 </html>
