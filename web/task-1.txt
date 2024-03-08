@@ -22,8 +22,8 @@
         img {
             display: block;
             margin: auto;
-            width: 800px;
-            height: 800px;
+            width: 600px;
+            height: 600px;
         }
     </style>
 </head>
